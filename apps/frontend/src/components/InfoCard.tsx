@@ -25,7 +25,7 @@ export const InfoCard = () => {
             <HStack alignSelf={{ base: "left", md: "flex-start" }}>
               <Image src="/apple.png" h={16} borderRadius={16} />
               <Text fontSize={24} fontWeight={800}>
-              B3TRBite
+              StellarBite
               </Text>
             </HStack>
             <Flex

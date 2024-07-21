@@ -8,7 +8,7 @@ export const MainStatistics = () => {
             pl={"20px"} // Add padding to the left to move content slightly to the right
         >
             <Box textAlign={"center"} mb={4}>
-                <Heading textShadow="0 0 20px rgba(255, 255, 255, 1)">B3TRBite</Heading>
+                <Heading textShadow="0 0 20px rgba(255, 255, 255, 1)">StellarBite</Heading>
             </Box>
 
             {
