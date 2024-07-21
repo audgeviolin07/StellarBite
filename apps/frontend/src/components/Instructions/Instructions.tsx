@@ -19,7 +19,7 @@ const Steps = [
     icon: "/steps/icon3.png",
     size: "sm",
     title: "Earn rewards",
-    description: "Earn B3TR for purchasing eco-friendly products.",
+    description: "Earn cryptocurrency for purchasing eco-friendly products.",
     style: { width: "50%", height: "50%" }
   },
 ];
