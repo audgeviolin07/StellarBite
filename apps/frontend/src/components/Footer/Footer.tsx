@@ -20,7 +20,7 @@ export const Footer: React.FC = () => {
   const desktopContent = (
     <VStack>
       <HStack justifyContent={"space-between"} w="full" spacing={4} my={4}>
-        <Box my={14}>
+        {/* <Box my={14}>
           <BeBetterVeBetterIcon
             beBetterProps={{
               width: "80%",
@@ -29,7 +29,7 @@ export const Footer: React.FC = () => {
               width: "100%",
             }}
           />
-        </Box>
+        </Box> */}
         <VStack spacing={4} alignItems={"flex-end"}>
           <DiscordButton />
           <TelegramButton />
@@ -48,7 +48,7 @@ export const Footer: React.FC = () => {
           lineHeight="17px"
           color="#8c8c8c"
         >
-          2024 VeBetterDAO. All rights reserved.
+          2024. All rights reserved.
         </Text>
         <HStack spacing={4}>
           <Link href={PRIVACY_POLICY_LINK} isExternal>
