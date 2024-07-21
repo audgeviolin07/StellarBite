@@ -29,7 +29,7 @@ export const Navbar = () => {
       
       <HStack flex={1} justifyContent="start" alignItems="center" onClick={() => navigate("/")} cursor={"pointer"}>
         <Image src="/apple.png" width="50px" height={"auto"} alt="Apple Logo" />
-        <Text fontSize="xl" ml={2} fontWeight={"bold"}>B3TRBite</Text>
+        <Text fontSize="xl" ml={2} fontWeight={"bold"}>StellarBite</Text>
       </HStack>
 
         <HStack flex={1} spacing={4} justifyContent={"end"}>
